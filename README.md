@@ -14,3 +14,8 @@ npm start
 ```
 
 
+Todos
+'''
+1. Implement sorting / drag and drop
+2. Implement inline editing
+'''
