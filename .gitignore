@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/my-crud-app/node_modules/*
+/silex-PHP-server/vendor/*
