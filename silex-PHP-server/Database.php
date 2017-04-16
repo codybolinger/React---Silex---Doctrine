@@ -1,18 +1,5 @@
 <?php
 
-
-// CREATE DATABASE "my-crud-app"
-//     WITH 
-//     OWNER = postgres
-//     ENCODING = 'UTF8'
-//     CONNECTION LIMIT = -1;
-
-// CREATE TABLE items (
-//     itemID            serial NOT NULL PRIMARY KEY,
-//     name         varchar(80) NOT NULL,   
-//     sort         int NOT NULL  
-// );
-
 class Database{
     private $connection;
 
